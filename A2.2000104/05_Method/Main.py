@@ -27,4 +27,4 @@ hero2 = Hero("mirana",15,100)
 hero1.siapa()
 hero1.healthUp(10)
 
-print (hero1.getHealth())
+print (hero1.getHealth)
