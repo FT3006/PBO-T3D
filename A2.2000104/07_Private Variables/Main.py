@@ -19,3 +19,4 @@ Lina = Hero("Lina",100)
 print(Lina.__dict__)
 print(Hero.__dict__)
 print(Hero.__privateJumlah)
+
