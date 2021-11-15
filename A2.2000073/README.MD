@@ -4,3 +4,4 @@
 #### Praktikum #05 : 05_Method
 #### Praktikum #06 : 06_OOP Games Basic
 #### Praktikum #07 : 07_Private Variables
+#### Praktikum #08 : 08_UTS
