@@ -24,7 +24,7 @@ Contoh struktur direktori sebagai *berikut:*
 
     .
     ├── ...
-    ├── A2.0000xxx                # Nama Direktori
+    ├── A2.2000104                # Sari Retna Kandini
     │   ├── Praktikum #01         # Sub Direktori hasil praktikum #01
     |   ├── Praktikum #02         # Sub Direktori hasil praktikum #02
     │   ├── Praktikum #03         # dan seterusnya.....
