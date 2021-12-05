@@ -6,3 +6,4 @@
 #### Praktikum #07 : 07_Private Variables
 #### Praktikum #08 : 08_UTS
 #### Praktikum #09 : 09_Encapsulasi
+#### Praktikum #10 : 10_staticmethod dan classmethod
