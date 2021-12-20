@@ -9,3 +9,4 @@
 #### Praktikum #10 : 10_staticmethod dan classmethod
 #### Praktikum #11 : 11_getter & setter_encapsulasi_pythonic_way
 #### Praktikum #12 : 12_Latihan Encapsulasi
+#### Praktikum #13 : 13_Pengenalan Inheritance
