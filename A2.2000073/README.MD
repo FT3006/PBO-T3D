@@ -11,3 +11,4 @@
 #### Praktikum #12 : 12_Latihan Encapsulasi
 #### Praktikum #13 : 13_Pengenalan Inheritance
 #### Praktikum #14 : 14_Super()
+#### Praktikum #15 : 15_Override
